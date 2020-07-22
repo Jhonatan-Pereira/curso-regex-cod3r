@@ -1,16 +1,18 @@
 ### Curso Regex da Cod3r
 
 ```
-Aprenda a usar Expressões Regulares (Regex) e aplique em várias linguagens: 
+Aprendendo a usar Expressões Regulares (Regex) e aplicar em várias linguagens: 
 Javascript, Java, Go, Python, Ruby...
 ```
 
 #### [Executando Expressões Regulares com as Stacks][executandoRegexLink]
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="drawing" width="40" heigth="40"/>
-<img src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt="drawing" width="40" heigth="40"/>
-<img src="https://miro.medium.com/max/512/0*OWUKWmE-4jdrLpx7.png" alt="drawing" width="40" heigth="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png" alt="drawing" width="40" heigth="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="drawing" width="40" heigth="40"/>
+<dl>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="drawing" width="40" heigth="40"/>
+    <img src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt="drawing" width="40" heigth="40"/>
+    <img src="https://miro.medium.com/max/512/0*OWUKWmE-4jdrLpx7.png" alt="drawing" width="40" heigth="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png" alt="drawing" width="40" heigth="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="drawing" width="40" heigth="40"/>
+</dl>
 
 #### [Caracteres][caracteresLink]
 * Caracteres Simples.
